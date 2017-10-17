@@ -10,13 +10,13 @@ import Deck from './Deck'
 
 const DATA = [
   {id: 1, text: 'Card #1', uri: `https://media-cdn.tripadvisor.com/media/photo-o/0a/56/44/5a/restaurant.jpg`},
-  {id: 2, text: 'Card #2', uri: `https://media-cdn.tripadvisor.com/media/photo-o/0a/56/44/5a/restaurant.jpg`},
-  {id: 3, text: 'Card #3', uri: `https://media-cdn.tripadvisor.com/media/photo-o/0a/56/44/5a/restaurant.jpg`},
-  {id: 4, text: 'Card #4', uri: `https://media-cdn.tripadvisor.com/media/photo-o/0a/56/44/5a/restaurant.jpg`},
-  {id: 5, text: 'Card #5', uri: `https://media-cdn.tripadvisor.com/media/photo-o/0a/56/44/5a/restaurant.jpg`},
-  {id: 6, text: 'Card #6', uri: `https://media-cdn.tripadvisor.com/media/photo-o/0a/56/44/5a/restaurant.jpg`},
-  {id: 7, text: 'Card #7', uri: `https://media-cdn.tripadvisor.com/media/photo-o/0a/56/44/5a/restaurant.jpg`},
-  {id: 8, text: 'Card #8', uri: `https://media-cdn.tripadvisor.com/media/photo-o/0a/56/44/5a/restaurant.jpg`},
+  {id: 2, text: 'Card #2', uri: `https://media.timeout.com/images/103600590/image.jpg`},
+  {id: 3, text: 'Card #3', uri: `https://media-cdn.tripadvisor.com/media/photo-s/0a/7b/7b/c6/restaurant-view.jpg`},
+  {id: 4, text: 'Card #4', uri: `https://media.timeout.com/images/103375433/image.jpg`},
+  {id: 5, text: 'Card #5', uri: `https://media-cdn.tripadvisor.com/media/photo-s/0d/5d/4a/f3/salle-de-restaurant.jpg`},
+  {id: 6, text: 'Card #6', uri: `https://media-cdn.tripadvisor.com/media/photo-s/0e/ff/77/57/veranda.jpg`},
+  {id: 7, text: 'Card #7', uri: `https://www.fourseasons.com/content/dam/fourseasons/images/web/DJB/DJB_179_aspect16x9.jpg/jcr:content/renditions/cq5dam.web.720.405.jpeg`},
+  {id: 8, text: 'Card #8', uri: `https://blogs-images.forbes.com/karlaalindahao/files/2017/07/Latitudes-Key-West_OpenTable-100-Most-Scenic-Restaurants-in-America-1200x675.jpg`},
 ]
 
 export default class App extends Component<{}> {
