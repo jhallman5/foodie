@@ -39,7 +39,7 @@ export default class App extends Component<{}> {
 
   render() {
     return (
-      // CARD for later use
+      // 'tinder-ish' CARD for later use
       // <View style={styles.card}>
       //   <Image
       //     style={{flex: 1}}
